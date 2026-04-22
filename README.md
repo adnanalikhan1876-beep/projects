@@ -1,1 +1,1 @@
-# projects
+Boutique projects
